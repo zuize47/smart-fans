@@ -1,4 +1,4 @@
-## Web hỗ trợ cho app.
+## Web hỗ trợ cho ứng dụng Smart Fans.
 
 ### Thông tin liên hệ
 
